@@ -7,7 +7,7 @@ This code was developed for my study about collision responses for video games.
 This Project use SFML 2 like graphics library
 https://www.sfml-dev.org/download/sfml/2.5.1/
 
-# C++ Compiler
+# C++ Compiler Required
 You can use G++ (GCC) or MSVC - Visual Studio 2013 or Up
 
 - Disclaimer
