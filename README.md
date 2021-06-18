@@ -10,5 +10,5 @@ https://www.sfml-dev.org/download/sfml/2.5.1/
 # C++ Compiler
 You can use G++ (GCC) or MSVC - Visual Studio 2013 or Up
 
-#Disclaimer
+- Disclaimer
 For compiler test and dev. was used G++ (MinGW - GCC)
